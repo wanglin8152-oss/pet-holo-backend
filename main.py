@@ -37,3 +37,4 @@ async def generate_stub(file: UploadFile = File(...)):
             "note": "Backend is deployed correctly. TODO: implement real generation logic.",
         }
     )
+    
